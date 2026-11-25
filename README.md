@@ -1,4 +1,4 @@
-<h1 align="center">¡Bienvenido a mi perfil!</h1>
+<h1 align="center">¡Bienvenid@ a mi perfil!</h1>
 
 Soy Andrea Ivanov, estudiante de ingeniería informática del software en la universidad de Oviedo.
 
